@@ -13,13 +13,14 @@
 - Preview
 
 
-[개요](#개요)
+# 개요
 
 [시스템 구성도](#시스템구성도)
 
 [동작 방법](#동작-방법)
 
 [작동 화면](#작동-화면)
+![이미지](https://postfiles.pstatic.net/MjAyMzEyMTBfMjky/MDAxNzAyMTM2MzE2MzI3.4GbLxVlNtAlEvE_meBE5JAL6VK8C6S9-_QZyvpe8OsAg.YjfO7Om_kDafrnor6Ey6UrlEXW7pwEic3d9tNiorJaAg.JPEG.rladkwn10/IMG_7073.jpg?type=w966)
 
 [추가 라이선스](#추가-라이선스)
 
