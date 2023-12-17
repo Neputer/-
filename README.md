@@ -18,7 +18,17 @@
 
 [작동 화면](#작동-화면)
 
-![이미지](https://postfiles.pstatic.net/MjAyMzEyMTBfMjky/MDAxNzAyMTM2MzE2MzI3.4GbLxVlNtAlEvE_meBE5JAL6VK8C6S9-_QZyvpe8OsAg.YjfO7Om_kDafrnor6Ey6UrlEXW7pwEic3d9tNiorJaAg.JPEG.rladkwn10/IMG_7073.jpg?type=w966)
+1. 실행시 기본적인 동작화면
+
+![이미지](./images/.gif)
+
+2. 기본적인 그림판 프로세스
+
+![이미지](./images/.gif)
+
+3. firebase를 이용한 창작마당 로그인
+
+![이미지](./images/.gif)
 
 
 [추가 라이선스](#추가-라이선스)
