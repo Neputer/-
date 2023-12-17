@@ -20,11 +20,10 @@
 
 [추가 라이선스](#추가-라이선스)
 
->문단
-
 # 시스템구성도
 
 - 시스템 구성
+
 ![이미지](./images/.png)
 
 - 콘텐츠 흐름도
@@ -53,7 +52,7 @@
 
 
 # 추가 라이선스
-Google firebase
+## Google firebase
 Version 2.0, January 2004
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
